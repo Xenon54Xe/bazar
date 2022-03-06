@@ -1,2 +1,2 @@
 # bazar
- for ideas
+ For ideas
